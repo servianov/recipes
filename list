@@ -1,0 +1,32 @@
+{
+  "array": [
+      {
+      "name": "Грузинская",
+      "list": [
+          {
+            "name":"хачапури",
+            "recipe": "sdfhsjkfhsjkdf",
+            "photo": "sdfsdf",
+            "video_link":""
+          },
+                  {
+            "name":"хинкали",
+            "recipe": "sdfhsjkfhsjkdf",
+            "photo": "sdfsdf",
+            "video_link":""
+          }
+        ]
+      },
+            {
+      "name": "Греческая",
+      "list": [
+          {
+            "name":"Сувлаки",
+            "recipe": "sdfhsjkfhsjkdf",
+            "photo": "sdfsdf",
+            "video_link":""
+          }
+        ]
+      }
+  ]
+}
