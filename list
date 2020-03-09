@@ -2,7 +2,7 @@
   "array": [
       {
       "name": "Грузинская",
-      "cover": "asdfgh",
+      "cover": "https://raw.githubusercontent.com/servianov/recipes/master/georgian.jpg",
       "list": [
           {
             "name":"хачапури",
@@ -20,7 +20,7 @@
       },
             {
       "name": "Греческая",
-      "cover": "asdfgh",
+      "cover": "https://raw.githubusercontent.com/servianov/recipes/master/greek.jpg",
       "list": [
           {
             "name":"Сувлаки",
