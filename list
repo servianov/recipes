@@ -6,13 +6,13 @@
           {
             "name":"хачапури",
             "recipe": "sdfhsjkfhsjkdf",
-            "photo": "sdfsdf",
+            "photos": "sdfsdf,asadsdfsdf",
             "video_link":""
           },
                   {
             "name":"хинкали",
             "recipe": "sdfhsjkfhsjkdf",
-            "photo": "sdfsdf",
+            "photos": "sdfsdf,asadsdfsdf",
             "video_link":""
           }
         ]
@@ -23,7 +23,7 @@
           {
             "name":"Сувлаки",
             "recipe": "sdfhsjkfhsjkdf",
-            "photo": "sdfsdf",
+            "photos": "sdfsdf,asadsdfsdf",
             "video_link":""
           }
         ]
