@@ -8,13 +8,23 @@
             "name":"хачапури",
             "recipe": "sdfhsjkfhsjkdf",
             "photos": "sdfsdf,asadsdfsdf",
-            "video_link":""
+            "video_link":"",
+            "dish_category":"Мучное"
           },
                   {
             "name":"хинкали",
             "recipe": "sdfhsjkfhsjkdf",
             "photos": "sdfsdf,asadsdfsdf",
-            "video_link":""
+            "video_link":"",
+             "dish_category":"Мучное"
+
+          },
+                   {
+            "name":"Оджахури",
+            "recipe": "sdfhsjkfhsjkdf",
+            "photos": "sdfsdf,asadsdfsdf",
+            "video_link":"",
+            "dish_category":"Мясные блюда"
           }
         ]
       },
@@ -26,7 +36,8 @@
             "name":"Сувлаки",
             "recipe": "sdfhsjkfhsjkdf",
             "photos": "sdfsdf,asadsdfsdf",
-            "video_link":""
+            "video_link":"",
+            "dish_category":"Мясные блюда"
           }
         ]
       }
