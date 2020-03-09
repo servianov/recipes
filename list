@@ -2,6 +2,7 @@
   "array": [
       {
       "name": "Грузинская",
+      "cover": "asdfgh",
       "list": [
           {
             "name":"хачапури",
@@ -19,6 +20,7 @@
       },
             {
       "name": "Греческая",
+      "cover": "asdfgh",
       "list": [
           {
             "name":"Сувлаки",
