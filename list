@@ -7,11 +7,13 @@
           {
             "name":"хачапури",
             "recipe": "sdfhsjkfhsjkdf",
-            "photos": "
-            https://raw.githubusercontent.com/servianov/recipes/master/georgian.jpg,
-            https://raw.githubusercontent.com/servianov/recipes/master/greek.jpg",
-             https://raw.githubusercontent.com/servianov/recipes/master/georgian.jpg,
-            https://raw.githubusercontent.com/servianov/recipes/master/greek.jpg",
+            "photos": [
+              "https://raw.githubusercontent.com/servianov/recipes/master/georgian.jpg",
+              "https://raw.githubusercontent.com/servianov/recipes/master/greek.jpg",
+              "https://raw.githubusercontent.com/servianov/recipes/master/georgian.jpg",
+              "https://raw.githubusercontent.com/servianov/recipes/master/greek.jpg"
+              ],
+
            
             "dish_category":"Мучное"
           },
