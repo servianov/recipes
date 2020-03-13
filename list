@@ -34,19 +34,23 @@
               [
                 {
                   "ingridient_name":"Сыр",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Мука",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Вода",
-                  "ingridient_count":"300 мл."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Соль",
-                  "ingridient_count":"20 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 }
                 ],
                 "total_duration":"40 мин.",
@@ -82,19 +86,23 @@
               [
                 {
                   "ingridient_name":"Сыр",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Мука",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Вода",
-                  "ingridient_count":"300 мл."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Соль",
-                  "ingridient_count":"20 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 }
                 ],
                 "total_duration":"40 мин.",
@@ -131,19 +139,23 @@
               [
                 {
                   "ingridient_name":"Сыр",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Мука",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Вода",
-                  "ingridient_count":"300 мл."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Соль",
-                  "ingridient_count":"20 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 }
                 ],
                 "total_duration":"40 мин.",
@@ -185,19 +197,23 @@
               [
                 {
                   "ingridient_name":"Сыр",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Мука",
-                  "ingridient_count":"200 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Вода",
-                  "ingridient_count":"300 мл."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 },
                 {
                   "ingridient_name":"Соль",
-                  "ingridient_count":"20 гр."
+                  "ingridient_count":"200",
+                  "ingridient_unit":"гр."
                 }
                 ],
                 "total_duration":"40 мин.",
