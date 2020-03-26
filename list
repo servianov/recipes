@@ -54,7 +54,7 @@
                 }
                 ],
                 "total_duration":"40 мин.",
-                "difficulty":"60",
+                "difficulty":"20",
             "dish_category":"Мучное"
           },
                   {
@@ -106,7 +106,7 @@
                 }
                 ],
                 "total_duration":"40 мин.",
-                "difficulty":"60",
+                "difficulty":"40",
              "dish_category":"Мучное"
 
           },
@@ -217,7 +217,7 @@
                 }
                 ],
                 "total_duration":"40 мин.",
-                "difficulty":"60",
+                "difficulty":"80",
             "dish_category":"Мясные блюда"
           }
         ]
